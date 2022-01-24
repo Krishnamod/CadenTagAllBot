@@ -26,7 +26,7 @@ async def start(event):
     buttons=(
       [
         Button.url('✨𝙎𝙐𝙋𝙋𝙊𝙍𝙏', 'https://t.me/VAMPIRE_EMPIRE_OFFIVIAL'),
-        Button.url('📦 𝙎𝙊𝙐𝙍𝘾𝙀', 'https://t.me/VAMPIRE_UPDATE)
+        Button.url('📦 𝙎𝙊𝙐𝙍𝘾𝙀', 'https://t.me/VAMPIRE_UPDATES)
       ]
     )
   )
@@ -40,7 +40,7 @@ async def help(event):
     buttons=(
       [
         Button.url('✨𝙎𝙐𝙋𝙋𝙊𝙍𝙏', 'https://t.me/VAMPIRE_EMPIRE_OFFICIAL'),
-        Button.url('📦 𝙎𝙊𝙐𝙍𝘾𝙀', 'https://t.me/VAMPIRE_UPDATE)
+        Button.url('📦 𝙎𝙊𝙐𝙍𝘾𝙀', 'https://t.me/VAMPIRE_UPDATES)
       ]
     )
   )
@@ -96,7 +96,7 @@ async def all(event):
     usrtxt += f"[{usr.first_name}](tg://user?id={usr.id}) "
     if usrnum == 5:
       if mode == "text_on_cmd":
-        txt = f"{usrtxt}\n\n{msg}\n\nMade bY @VAMPIRE_UPDATE ✌️🔥"
+        txt = f"{usrtxt}\n\n{msg}\n\nMade bY @VAMPIRE_UPDATES ✌️🔥"
         await client.send_message(chat_id, txt)
       elif mode == "text_on_reply":
         await msg.reply(usrtxt)
@@ -119,5 +119,5 @@ async def cancel_spam(event):
       pass
     return await event.respond('__Stopped.__')
 
-print(">> VAMPIRE TAGALL STARTED @VAMPIRE_UPDATE<<")
+print(">> VAMPIRE TAGALL STARTED @VAMPIRE_UPDATES<<")
 client.run_until_disconnected()
