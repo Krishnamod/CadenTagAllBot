@@ -6,7 +6,7 @@
 
 <p align="center"><a href="https://t.me/VAMPIRE_EMPIRE_OFFICIAL"><img align="center" src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 </p>
-<p align="center"><a href="https://t.me/VAMPIRE_UPDATE"><img align="center" src="https://img.shields.io/badge/Join-Official%20Channel-blue.svg?style=for-the-badge&logo=Telegram">
+<p align="center"><a href="https://t.me/VAMPIRE_UPDATES"><img align="center" src="https://img.shields.io/badge/Join-Official%20Channel-blue.svg?style=for-the-badge&logo=Telegram">
 </p>
 <p align="center"><a href="https://t.me/VAMPIRE_EMPIRE_OFFICIAL"><img src="https://telegra.ph/file/06bab8d2aca8660c3b487.jpg" width="300"></a></p>
 
